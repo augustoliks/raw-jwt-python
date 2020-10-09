@@ -1,5 +1,5 @@
 """
-créditos: https://github.com/gustavolopess
+créditos: https://gist.github.com/gustavolopess/e61a33deee8ee0a4f1c1e085ead0add5
 """
 
 import base64
