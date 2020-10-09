@@ -3,6 +3,7 @@
 - __Data__: 08/10/2020
 - __Autor__: [@augustoliks](https://github.com/augustoliks) | <carlos.santos110@fatec.sp.gov.br>
 - __Objetivo__: Explorar o JWT, criando e manipulando Tokens, e testando sua integridade em devidas ocasiões.
+- __Créditos__: @gustavolopess
 
 ## Como Executar
 
